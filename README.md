@@ -166,3 +166,6 @@ The parameters listed below can be modified in the ```params.yaml``` file.
 
 ```joy_button_idx```: The index of the joystick button used to turn on/off joystick driving.
 
+#### Maintainers 
+Krushnal Patel
+Raghav Gakhar
